@@ -17,3 +17,8 @@ When I was little my only activities were being on the computer and playing game
 - JavaScript
 - A small amount of Java
 - Pug
+
+# Frameworks learnt:
+
+- Symfony
+- Vue
