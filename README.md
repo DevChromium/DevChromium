@@ -1,5 +1,5 @@
 ## 👋 Hey
-My name is Lucas and I am a 20 year old developer based in Belgium.
+My name is Lucas and I am a 21 year old developer based in Belgium.
 - 👩‍💻 Senior Web developer @ [Wynntils](https://www.wynntils.com)
 - Going for my Bachelor in Applied Computer Science at VIVES University of Applied Sciences
 
