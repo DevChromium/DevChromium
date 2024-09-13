@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm devchromium</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevChromium&label=Profile%20views&color=0e75b6&style=flat" alt="DevChromium" /> </p>
 
-I'm a 21 year old developer currently studying computer science at VIVES University of Applied Sciences. In my free time I work on [Wynntils](https://wynntils.com)
+I'm a 22 year old developer currently studying computer science at VIVES University of Applied Sciences. In my free time I work on [Wynntils](https://wynntils.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
